@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/A7MEDC7/product-preview-card.git
-
+```
 1. Open the index.html file in your web browser.
  ### Fonts Used
 - Montserrat
