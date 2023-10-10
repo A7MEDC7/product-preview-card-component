@@ -4,10 +4,10 @@ This is a front-end project that implements a product preview card component. It
 
 ## Preview
 
-![Product Preview]()
-![Product Preview]()
-![Product Preview]()
-![Product Preview]()
+![Product Preview](/design/desktop-design.jpg)
+![Product Preview](/design/desktop-preview.jpg)
+![Product Preview](/design/active-states.jpg)
+![Product Preview](/design/mobile-design.jpg)
 
 ## Features
 
